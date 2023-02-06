@@ -10,7 +10,7 @@ The Python Script (LogUnredactor.sh) can be run on any unix as a bash script
 it needs python3 and json libraries
 
 ```
- $ ./LogUnredactor.sh > Unredacted_log.txt
+ $ ./Unredactor.sh > Unredacted_log.txt
 Enter the log file path: current_log.txt 
 Enter the redaction mapping file path: test.json
 ```
