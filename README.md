@@ -2,7 +2,7 @@
 ### Python Script and a Web Page to un-redact a log file based on a json file. 
 The Web app is compiled with flask, it will prompt for redacted log-file and json key file to un-redact it
 
-On a side-note i am very new with coding and this has been first python project written with the help of Chat-GPT. 
+On a side-note I am a novice with coding and this has been my first python project written with the help of Chat-GPT. 
 
 ## Python Script
 
