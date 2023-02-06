@@ -19,7 +19,7 @@ Enter the redaction mapping file path: test.json
 app.py is in flask as long as you have python and flask preoperly configured you will be able to run it 
 
 ## Docker Image 
-If you are not really bothered with compiling and setting up and webeserver you can just run the docker conmtainer. 
+If you are not really bothered with compiling and setting up a web server you can just run the docker container.
 https://hub.docker.com/r/vinstech/logunredactor
 
 ```
