@@ -15,8 +15,9 @@ Enter the log file path: current_log.txt
 Enter the redaction mapping file path: test.json
 ```
 
-## Webpage. 
-app.py is in flask as long as you have python and flask properly configured you will be able to run it 
+## Webapp. 
+app.py is in flask as long as you have python and flask properly configured you will be able to run it
+This app is using default flask port 5000
 
 ## Docker Image 
 If you are not really bothered with compiling and setting up a web server, you can just run the docker container.
